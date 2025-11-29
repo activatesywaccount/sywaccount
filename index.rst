@@ -9,7 +9,7 @@ Quick and Easy Ways to Activate Your SYW Credit Card
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://activate.syw.accountonline.com" style="background-color:#0b3c8c; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://activatesyw-accountguide.readthedocs.io/en/latest/" style="background-color:#0b3c8c; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Go to Official SYW Activation Page
         </a>
     </div>
